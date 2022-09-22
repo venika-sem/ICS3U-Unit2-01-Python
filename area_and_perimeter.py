@@ -3,7 +3,7 @@
 # Created by: Venika Sem
 # Created on: Sept 2020
 # This program calculates the area and perimeter of a circle
-#    with radius 15mm
+#    with a 15 mm radius
 
 import math
 
